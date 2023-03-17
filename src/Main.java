@@ -22,7 +22,7 @@ public class Main {
     }
 
     public static void task2() {
-        System.out.println("task2");
+        System.out.println("Задача 2");
         int temperature = 10;
         if (temperature < 5) {
             System.out.println("На улице " + temperature + " градусов, нужно надеть шапку");
@@ -33,7 +33,7 @@ public class Main {
     }
 
     public static void task3() {
-        System.out.println("task3");
+        System.out.println("Задача 3");
         int speed = 50;
         if (speed > 60) {
             System.out.println("НЕсли скорость " + speed + "км/ч, то  придется заплатить штраф");
@@ -43,7 +43,7 @@ public class Main {
     }
 
     public static void task4() {
-        System.out.println("task4");
+        System.out.println("Задача 4");
         int agg = 24;
         if (2 <= agg && agg < 6) {
             System.out.println("Если возраст человека равен " + agg + ",то ему нужно ходить в детский сад");
@@ -64,7 +64,7 @@ public class Main {
     }
 
     public static void task5() {
-        System.out.println("task5");
+        System.out.println("Задача 5");
         int agg = 14;
         if (agg < 5) {
             System.out.println("Если возраст ребенка равен " + agg + ", то ему нельзя кататься на аттракционе");
@@ -80,7 +80,7 @@ public class Main {
     }
 
     public static void task6() {
-        System.out.println("task6");
+        System.out.println("Задача 6");
         int capacity = 102;
         int sittingPlaces = 60;
         int standingPlaces = capacity - sittingPlaces;
@@ -100,7 +100,7 @@ public class Main {
     }
 
     public static void task7() {
-        System.out.println("task7");
+        System.out.println("Задача 7");
         int one = 20;
         int two = 20;
         int three = 20;
